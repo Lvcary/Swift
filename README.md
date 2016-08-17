@@ -1,0 +1,4 @@
+# Swift
+使用Swift与OC的混合编程，dome中的第三方使用cocoapods管理，第三方全部使用OC语言。
+简单的实现tabbar，navigationBar，tableview等空间，navigationBar的颜色随tableview的滚动的位置而改变。
+简单实现循环滚动广告栏。
